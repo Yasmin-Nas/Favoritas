@@ -1,0 +1,25 @@
+{
+   "favoritas":[
+      {
+         "nome":"Calabresa",
+         "ingrediente":"Calabresa, cebola e azeitonas roxas",
+         "foto":"image 2.png"
+      },
+      {
+         "nome":"Mussarela",
+         "ingrediente":"Mussarela com molho de tomate",
+         "foto":"image 4.png"
+      },
+      {
+         "nome":"Frango Catupiry",
+         "ingrediente":"Frango desfiado coberto com catupiry",
+        "foto":"image 6.png"
+      },
+      {
+         "nome":"Morango com chocolate",
+         "ingrediente":"Morango coberto com chocolate",
+         "foto":"image 5.png"
+      }
+      
+   ]
+}
